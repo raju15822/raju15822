@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bellamkonda Giri Raju</h1>
 <h3 align="center">I am a Master of Computer Applications (MCA) student at [Your University] with a passion for software development and innovative technologies.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgzM20wZ3RrbmFuNmtkaWp2OHJqbWo1b2JhMXExbjVpeXFscjFubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 📫 How to reach me **bk.giriraju18@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/raju15822?tab=repositories](https://github.com/raju15822?tab=repositories)
