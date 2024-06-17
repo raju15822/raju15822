@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bellamkonda Giri Raju</h1>
 <h3 align="center">I am a Master of Computer Applications (MCA) student at [OSMANIA UNIVERSITY] with a passion for software development and innovative technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
-- 🌱 I’m currently learning **Java with data structures and algorithms, as well as the MERN stack (MongoDB, Express.js, React, and Node.js).**
 
 - 📫 How to reach me **bk.giriraju18@gmail.com**
 
