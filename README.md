@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bellamkonda Giri Raju</h1>
-<h3 align="center">I am an MCA student at AURORA'S PG COLLEGE (OSMANIA UNIVERSITY), passionate about software development and technology innovation. With a solid foundation in programming languages like Java, Python, and C, I am eager to apply my skills in real-world projects. My interests include machine learning, data science, and full-stack development. I am actively seeking internship and job opportunities to enhance my skills and contribute to impactful projects.</h3>
+<h3 align="center">I am a Master of Computer Applications (MCA) student at [Your University] with a passion for software development and innovative technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
 - 📫 How to reach me **bk.giriraju18@gmail.com**
